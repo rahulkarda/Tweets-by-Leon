@@ -4,7 +4,7 @@ Twitter Timeline Project. All of Leon's tweets will be shown here.
 The site is live at : https://tweetsbyleon.netlify.app/
 
 <a target="_blank" href="https://tweetsbyleon.netlify.app">
-          <img src="" width="100%" alt="Tweets by Leon"/>
+          <img src="https://github.com/rahulkarda/Tweets-by-Leon/blob/master/images/tweetsbyleon.jpg?raw=true" width="100%" alt="Tweets by Leon"/>
 </a>
 <br>
 
